@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2013/12/19 21:15:59.777,=C:\Users\Administrator\Documents\RAD Studio\Projects\Project3PCH1.h</Transaction>
-    <Transaction>2013/12/19 21:15:59.794,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2013/12/19 21:19:10.415,C:\Users\Administrator\Documents\RAD Studio\Projects\ThSort.dfm=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2013/12/19 21:19:10.415,C:\Users\Administrator\Documents\RAD Studio\Projects\ThSort.cpp=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2013/12/19 21:19:10.415,C:\Users\Administrator\Documents\RAD Studio\Projects\ThSort.h=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.h</Transaction>
-    <Transaction>2013/12/19 21:28:23.775,=D:\Development\CPP\SortThds\SortThds.cpp</Transaction>
-    <Transaction>2013/12/19 21:32:01.815,D:\Development\CPP\SortThds\ThSort.cpp=C:\Users\Administrator\Documents\RAD Studio\Projects\ThSort.cpp</Transaction>
-    <Transaction>2013/12/19 21:32:01.815,D:\Development\CPP\SortThds\ThSort.h=C:\Users\Administrator\Documents\RAD Studio\Projects\ThSort.h</Transaction>
-    <Transaction>2013/12/19 21:32:01.815,D:\Development\CPP\SortThds\ThSort.dfm=C:\Users\Administrator\Documents\RAD Studio\Projects\ThSort.dfm</Transaction>
-    <Transaction>2013/12/19 21:32:55.387,C:\Users\Administrator\Documents\RAD Studio\Projects\ThrdDemoPCH1.h=C:\Users\Administrator\Documents\RAD Studio\Projects\Project3PCH1.h</Transaction>
-    <Transaction>2013/12/19 21:32:55.393,C:\Users\Administrator\Documents\RAD Studio\Projects\ThrdDemo.cbproj=C:\Users\Administrator\Documents\RAD Studio\Projects\Project3.cbproj</Transaction>
-    <Transaction>2013/12/19 21:33:04.608,D:\Development\CPP\SortThds\ThrdDemoPCH1.h=C:\Users\Administrator\Documents\RAD Studio\Projects\ThrdDemoPCH1.h</Transaction>
-    <Transaction>2013/12/19 21:33:06.709,D:\Development\CPP\SortThds\ThrdDemo.cbproj=C:\Users\Administrator\Documents\RAD Studio\Projects\ThrdDemo.cbproj</Transaction>
+	<Transactions>
+    <Transaction>2013/12/19 21:15:59.000.794,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2013/12/19 21:15:59.000.777,=C:\Users\Administrator\Documents\RAD Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>2013/12/19 21:19:10.000.415,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\Administrator\Documents\RAD Studio\Projects\ThSort.cpp</Transaction>
+    <Transaction>2013/12/19 21:19:10.000.415,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Administrator\Documents\RAD Studio\Projects\ThSort.dfm</Transaction>
+    <Transaction>2013/12/19 21:19:10.000.415,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.h=C:\Users\Administrator\Documents\RAD Studio\Projects\ThSort.h</Transaction>
+    <Transaction>2013/12/19 21:28:23.000.775,=D:\Development\CPP\SortThds\SortThds.cpp</Transaction>
+    <Transaction>2013/12/19 21:32:01.000.815,C:\Users\Administrator\Documents\RAD Studio\Projects\ThSort.dfm=D:\Development\CPP\SortThds\ThSort.dfm</Transaction>
+    <Transaction>2013/12/19 21:32:01.000.815,C:\Users\Administrator\Documents\RAD Studio\Projects\ThSort.cpp=D:\Development\CPP\SortThds\ThSort.cpp</Transaction>
+    <Transaction>2013/12/19 21:32:01.000.815,C:\Users\Administrator\Documents\RAD Studio\Projects\ThSort.h=D:\Development\CPP\SortThds\ThSort.h</Transaction>
+    <Transaction>2013/12/19 21:32:55.000.393,C:\Users\Administrator\Documents\RAD Studio\Projects\Project3.cbproj=C:\Users\Administrator\Documents\RAD Studio\Projects\ThrdDemo.cbproj</Transaction>
+    <Transaction>2013/12/19 21:32:55.000.387,C:\Users\Administrator\Documents\RAD Studio\Projects\Project3PCH1.h=C:\Users\Administrator\Documents\RAD Studio\Projects\ThrdDemoPCH1.h</Transaction>
+    <Transaction>2013/12/19 21:33:04.000.608,C:\Users\Administrator\Documents\RAD Studio\Projects\ThrdDemoPCH1.h=D:\Development\CPP\SortThds\ThrdDemoPCH1.h</Transaction>
+    <Transaction>2013/12/19 21:33:06.000.709,C:\Users\Administrator\Documents\RAD Studio\Projects\ThrdDemo.cbproj=D:\Development\CPP\SortThds\ThrdDemo.cbproj</Transaction>
   </Transactions>
 </BorlandProject>

@@ -15,13 +15,13 @@ __published:	// IDE-managed Components
 	TBevel *Bevel1;
 	TBevel *Bevel2;
 	TBevel *Bevel3;
-	TPaintBox *BubbleSortBox;
 	TLabel *Label1;
 	TLabel *Label2;
 	TLabel *Label3;
 	TPaintBox *QuickSortBox;
 	TPaintBox *SelectionSortBox;
 	TButton *StartBtn;
+	TPaintBox *BubbleSortBox;
 	void __fastcall StartBtnClick(TObject *Sender);
 	void __fastcall FormCreate(TObject *Sender);
 	void __fastcall BubbleSortBoxPaint(TObject *Sender);

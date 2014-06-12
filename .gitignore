@@ -5,6 +5,7 @@
 __history/
 *.~*
 *.local
+*local
 
 #################
 ## Eclipse

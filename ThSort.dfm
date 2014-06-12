@@ -34,13 +34,6 @@ object ThreadSortForm: TThreadSortForm
     Width = 177
     Height = 233
   end
-  object BubbleSortBox: TPaintBox
-    Left = 16
-    Top = 32
-    Width = 177
-    Height = 233
-    OnPaint = BubbleSortBoxPaint
-  end
   object Label1: TLabel
     Left = 8
     Top = 8
@@ -63,18 +56,25 @@ object ThreadSortForm: TThreadSortForm
     Caption = 'Quick Sort'
   end
   object QuickSortBox: TPaintBox
-    Left = 384
-    Top = 32
+    Left = 376
+    Top = 25
     Width = 177
-    Height = 233
+    Height = 230
     OnPaint = QuickSortBoxPaint
   end
   object SelectionSortBox: TPaintBox
-    Left = 200
-    Top = 32
+    Left = 192
+    Top = 25
     Width = 177
-    Height = 233
+    Height = 230
     OnPaint = SelectionSortBoxPaint
+  end
+  object BubbleSortBox: TPaintBox
+    Left = 8
+    Top = 25
+    Width = 177
+    Height = 230
+    OnPaint = BubbleSortBoxPaint
   end
   object StartBtn: TButton
     Left = 480
